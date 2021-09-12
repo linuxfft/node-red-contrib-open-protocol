@@ -13,7 +13,7 @@
   "author": "Smart-Tech",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "node-open-protocol": "git+https://github.com/masami10/node-open-protocol.git#master"
+    "node-open-protocol": "git+https://github.com.cnpmjs.org/masami10/node-open-protocol.git#master"
   },
   "keywords": [
     "hardware",
